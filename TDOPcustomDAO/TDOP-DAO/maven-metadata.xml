@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>TDOPcustomDAO</groupId>
+  <artifactId>TDOP-DAO</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180405132444</lastUpdated>
+  </versioning>
+</metadata>
