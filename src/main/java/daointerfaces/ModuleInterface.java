@@ -1,3 +1,5 @@
+package daointerfaces;
+
 public interface ModuleInterface {
 
     boolean CreateStudent(String name, int groupnum, int coursenum);
@@ -12,5 +14,7 @@ public interface ModuleInterface {
     void SeeCourses();
     void SeeCourseGroups(int coursenum);
     void SeeGroupStudents(int groupnum, int coursenum);
-    
+
+    boolean StartSession();
+    boolean StopSession();
 }
